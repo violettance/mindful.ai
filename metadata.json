@@ -1,0 +1,7 @@
+{
+  "name": "Mindful AI",
+  "description": "Daily mood, energy, and cycle tracker with Gemini-powered insights for productivity and mental health.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
